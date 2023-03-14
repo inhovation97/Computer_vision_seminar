@@ -9,12 +9,18 @@
 ### 명단
 본 과정은 17명 중 7명, 청강자의 약 70%가 끝까지 수료하였습니다.   
 팀장: 정인호(4학년) - [Github](https://github.com/inhovation97)   
-서채준(3학년)-[Github](https://github.com/WestChaeVI)   
-박지훈(3학년)-[Github](https://github.com/JihoonPark99)   
-김성환(3학년)-[Github](https://github.com/hwanin99)   
-김도훈(3학년)-[Github](https://github.com/dohun-mat)   
-임지우(4학년)-[Github](https://github.com/amthreeh)   
-구성준(3학년)-[Github](https://github.com/KOO-96)   
+
+서채준(3학년) - [Github](https://github.com/WestChaeVI)   
+
+박지훈(3학년) - [Github](https://github.com/JihoonPark99)   
+
+김성환(3학년) - [Github](https://github.com/hwanin99)   
+
+김도훈(3학년) - [Github](https://github.com/dohun-mat)   
+
+임지우(4학년) - [Github](https://github.com/amthreeh)   
+
+구성준(3학년) - [Github](https://github.com/KOO-96)   
  
 
 
