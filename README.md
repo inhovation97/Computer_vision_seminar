@@ -14,7 +14,7 @@
 
 박지훈(3학년) [[Github]](https://github.com/JihoonPark99/Computer_Vision_Study)   
 
-김성환(3학년) [[Github]](https://github.com/hwanin99/ComputerVision_Seminar)   
+황민영(3학년) [[Github]](https://github.com/ggomaeng514/CV_seminar_project)   
 
 김도훈(3학년) [[Github]](https://github.com/dohun-mat/dna_study_semina)   
 
@@ -22,11 +22,15 @@
 
 구성준(3학년) [[Github]](https://github.com/KOO-96/DNA_seminar)   
 
+정찬호(4학년) [[Github]](https://github.com/hodurang2/CV_project)
+
+이태영(3학년) [[Github]](https://github.com/Taeyoungleee/ComputerVision_Seminar/)
+
 박다인(3학년) [[Github]](https://github.com/Park-da-in/ComputerVision_Seminar)
 
 이다빈(3학년) [[Github]](https://github.com/d-bxiin/ComputerVision_Seminar)
  
-
+김성환(3학년) [[Github]](https://github.com/hwanin99/ComputerVision_Seminar)   
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
