@@ -7,14 +7,14 @@
 > 실습 - Pytorch 프레임워크를 활용하여, Image classification 모델을 만드는 전체 과정을 경험하였습니다.   
 
 ### 명단
-본 과정은 17명 중 7명, 청강자의 약 70%가 끝까지 수료하였습니다.   
+본 과정은 17명 중 11명, 청강자의 약 70%가 끝까지 수료하였습니다.   
 팀장: 정인호(4학년) [[Github]](https://github.com/inhovation97)   
 
 서채준(3학년) [[Github]](https://github.com/WestChaeVI/Data-Network-Analysis)   
 
 박지훈(3학년) [[Github]](https://github.com/JihoonPark99/Computer_Vision_Study)   
 
-황민영(3학년) [[Github]](https://github.com/ggomaeng514/CV_seminar_project)   
+황민영(4학년) [[Github]](https://github.com/ggomaeng514/CV_seminar_project)   
 
 김도훈(3학년) [[Github]](https://github.com/dohun-mat/dna_study_semina)   
 
