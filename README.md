@@ -9,7 +9,7 @@
 <img src="https://user-images.githubusercontent.com/59557720/235427051-f61bdd81-5a6e-46da-9292-92336d5a42f4.png" width="806" height="502">   
 
 ### 수료 명단 -  __컴퓨터 비전의 전반적인 이해와 딥러닝 모델의 활용에 능숙해졌음을 기대합니다.__
-본 과정은 17명 중 아래 12명이 끝까지 수료하였습니다.      
+본 과정은 17명 중 아래 13명이 끝까지 수료하였습니다.      
 👨‍💻팀장: 정인호(4학년) [[Github]](https://github.com/inhovation97)   
 
 __세미나 수료율: 76%__   
@@ -47,6 +47,7 @@ __week 8__ - [DenseNet 논문 리뷰](https://www.youtube.com/watch?v=gLljL68b-n
 ### 과제   
 __1. 과적합을 줄여 효율적인 CNN 모델 설계하기(뉴럴 네트워크의 이해)__ - [블로그 참조](https://inhovation97.tistory.com/43)   
 Weight initialization, Batch normalization, Drop out 등을 이용하여 효율적으로 설계하기   
+   
 __2. 학습 데이터 디렉토리 클래스 짜기__ [[Code]](https://github.com/inhovation97/ComputerVision_Seminar/blob/main/%EA%B3%BC%EC%A0%9C/CV_seminar_week2_%EA%B3%BC%EC%A0%9C%ED%92%80%EC%9D%B4.ipynb)   
 파이토치 프레임 워크를 이용하기 위한, 학습 데이터 셋 디렉토리 관리.   
 _과제 도중 서채준군 험한 말_
@@ -82,14 +83,15 @@ class Make_dataset_dir():
   def checking_dirs(self):
     '''데이터가 잘 스플릿 되었는지 확인하는 함수입니다. trian, valid, test 디렉토리에 데이터가 잘 들어가 있는지 개수를 확인하는 함수를 생성해주시면 됩니다.'''
 ```
+   
 __3. 이미지 픽셀 값을 조정하여 선 긋기(이미지 데이터 이해하기)__ [[Code]](https://github.com/inhovation97/ComputerVision_Seminar/blob/main/%EA%B3%BC%EC%A0%9C/CV_seminar_week_3_%EA%B3%BC%EC%A0%9C%ED%92%80%EC%9D%B4.ipynb)   
 0~255의 3채널 픽셀 값을 갖는 이미지 데이터의 특성을 이해하기.   
 <img src="https://user-images.githubusercontent.com/59557720/235431592-b3c62948-6f52-4dfb-b9bf-6ff644af199f.png" width="500" height="300">   
-
+   
 __4. Augmentation과 Normalizaion이 진행된 이미지를 시각화하기(이미지 데이터 이해하기)__ [[Code]](https://github.com/inhovation97/ComputerVision_Seminar/blob/main/%EA%B3%BC%EC%A0%9C/CV_seminar_week_3_%EA%B3%BC%EC%A0%9C%ED%92%80%EC%9D%B4.ipynb)   
 변형된 픽셀 값을 정상 범위로 되돌려야 하는 과제.   
 <img src="https://user-images.githubusercontent.com/59557720/235431066-6b2060da-0e91-4222-b434-7b61687a21c6.png" width="500" height="300">   
-
+   
 __5. 돌고래, 상어, 고래를 분류하는 ResNet50의 전체 파이프라인 짜기__ [[Code]](https://github.com/inhovation97/ComputerVision_Seminar/blob/main/%EA%B3%BC%EC%A0%9C/%EB%A7%88%EC%A7%80%EB%A7%89%EA%B3%BC%EC%A0%9C_modeling.ipynb)   
 파인튜닝한 모델을 학습한 뒤 validation set기준 가장 성능이 좋았던 가중치를 저장하여, Test set의 최종 성능 체크하기.   
 <img src="https://user-images.githubusercontent.com/59557720/235432407-5bd14b2b-ebff-43b1-9d77-30077a0864c5.png" width="1000" height="400">   
