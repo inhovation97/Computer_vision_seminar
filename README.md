@@ -35,7 +35,7 @@ __세미나 수료율: 76%__
 > 이미지 분류 모델 전체의 파이프 라인을 구체화 시킬 수 있는 프로그래밍 실력을 위해 매주 코딩 과제를 해결했습니다.   
    
 [<img src="https://user-images.githubusercontent.com/59557720/235425435-66d22ea5-7cd3-44c2-ae78-f877785d2973.png" width="48" height="48">](https://youtube.com/playlist?list=PLEokQ2SuW8GeInexAYVdD3BaOE2JMOB9J)   
-__week 1__ - [머신러닝 이해 & Convolutional Networks 원리](https://www.youtube.com/watch?v=_-TeUfZ4rLo&list=PLEokQ2SuW8GeInexAYVdD3BaOE2JMOB9J&index=1&t=198s&pp=gAQBiAQB)   
+__week 1__ - [딥러닝이 가장 좋은 인공지능 아닌가요?](https://www.youtube.com/watch?v=_-TeUfZ4rLo&list=PLEokQ2SuW8GeInexAYVdD3BaOE2JMOB9J&index=1&t=198s&pp=gAQBiAQB)   
 __week 2__ - [CNN을 효율적으로 쌓기](https://www.youtube.com/watch?v=lJE1QM17jEA&list=PLEokQ2SuW8GeInexAYVdD3BaOE2JMOB9J&index=2&t=2867s&pp=gAQBiAQB) | [Learning rate & Batch size 어떻게 설정하는게 좋을까요?](https://www.youtube.com/watch?v=fDzeMSg0rOE&list=PLEokQ2SuW8GeInexAYVdD3BaOE2JMOB9J&index=3&pp=gAQBiAQB) | [Transfer Learning이란?](https://www.youtube.com/watch?v=oUn-GZoq7bQ&list=PLEokQ2SuW8GeInexAYVdD3BaOE2JMOB9J&index=4&t=1872s&pp=gAQBiAQB)      
 __week 3__ - [파이썬 가독성이 높은 코드](https://www.youtube.com/watch?v=OJMISHvcXG4&list=PLEokQ2SuW8GeInexAYVdD3BaOE2JMOB9J&index=6&t=5s&pp=gAQBiAQB) | [파이썬 이미지 라이브러리 정리](https://www.youtube.com/watch?v=LqK9ZeYt40s&list=PLEokQ2SuW8GeInexAYVdD3BaOE2JMOB9J&index=7&pp=gAQBiAQB) | [VGGNet(2014) 논문읽기](https://www.youtube.com/watch?v=E_eSr-Zqfcw&list=PLEokQ2SuW8GeInexAYVdD3BaOE2JMOB9J&index=8&pp=gAQBiAQB)    
 __week 4__ - [Pytorch 데이터셋 클래스 생성(라이브러리)](https://www.youtube.com/watch?v=txB8EWKSRwU&list=PLEokQ2SuW8GeInexAYVdD3BaOE2JMOB9J&index=10&t=697s&pp=gAQBiAQB) | [Pytorch 데이터셋 클래스 커스터마이징](https://www.youtube.com/watch?v=Kgem-pLiDH0&list=PLEokQ2SuW8GeInexAYVdD3BaOE2JMOB9J&index=11&pp=gAQBiAQB)   
